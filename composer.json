@@ -1,0 +1,41 @@
+{
+    "name": "bogordesain/laravel-commentable",
+    "description": "Add Comment to Laravel Model",
+    "license": "license",
+    "authors": [
+        {
+            "name": "Bogor Desain",
+            "email": "hello@bogordesain.com",
+            "homepage": "https://bogordesain.com"
+        }
+    ],
+    "homepage": "https://github.com/bogordesain/laravel-commentable",
+    "keywords": ["Laravel", "LaravelCommentable"],
+    "require": {
+        "illuminate/support": "~7|~8"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~9.0",
+        "orchestra/testbench": "~5|~6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bogordesain\\LaravelCommentable\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Bogordesain\\LaravelCommentable\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bogordesain\\LaravelCommentable\\LaravelCommentableServiceProvider"
+            ],
+            "aliases": {
+                "LaravelCommentable": "Bogordesain\\LaravelCommentable\\Facades\\LaravelCommentable"
+            }
+        }
+    }
+}
