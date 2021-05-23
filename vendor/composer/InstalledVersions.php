@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '2e1255aa2c73f3b43bf8535eeedff9587f60743d',
+    'reference' => 'b228eb740c8bd61425005690f08a055678808a24',
     'name' => 'bogordesain/laravel-commentable',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '2e1255aa2c73f3b43bf8535eeedff9587f60743d',
+      'reference' => 'b228eb740c8bd61425005690f08a055678808a24',
     ),
     'brick/math' => 
     array (
