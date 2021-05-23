@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'b228eb740c8bd61425005690f08a055678808a24',
+    'reference' => 'e4d72bcf679bcf6c98a3e596f7b2c4139d490aca',
     'name' => 'bogordesain/laravel-commentable',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'b228eb740c8bd61425005690f08a055678808a24',
+      'reference' => 'e4d72bcf679bcf6c98a3e596f7b2c4139d490aca',
     ),
     'brick/math' => 
     array (
