@@ -1,7 +1,7 @@
 {
     "name": "bogordesain/laravel-commentable",
-    "description": "Add Comment to Laravel Model",
-    "license": "license",
+    "description": "Laravel Commentable Sistem",
+    "license": "MIT",
     "authors": [
         {
             "name": "Bogor Desain",
